@@ -44,6 +44,3 @@ This project focuses on analyzing workforce metrics for a chocolate company, pro
 
 - Expertise: Data Visualization, HR Analytics, Workforce Metrics  
 - Tools: Power BI, Python  
-
-## Contact  
-For questions or collaboration, feel free to reach out at [your-email@example.com].  
